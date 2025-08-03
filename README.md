@@ -19,6 +19,6 @@ The notebook produces the results in our manuscript for the case of SMBH-SMBH me
 
 *** Python script CMB_SMBH_Formation.py : 
 
-This generates a CMB power spectrum plot for Lambda-CDM for a case where we have SMBH formation from PBH mergers, but have
+This generates a CMB power spectrum plot for Lambda-CDM (no conversion of matter to GW) and for a case where we have SMBH formation from PBH mergers, but have
 restricted the comoving SMBH formation rate so that SMBHs are not overproduced. One can see a small ISW effect at low multipole moment. The plot this produces
 is in this repo, though if you wish to run the code, you will need to install CLASS. 
