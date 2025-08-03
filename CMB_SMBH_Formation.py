@@ -24,7 +24,7 @@ base_params = {
     'thermodynamics_verbose': 2
 }
 
-h_values = np.array([0.674,0.7178]) #Lambda - CDM value, and the value from the fit 
+h_values = np.array([0.674,0.7186]) #Lambda - CDM value, and the value from the fit 
 
 # Lists to store power spectra 
 cl_tt_list = []
